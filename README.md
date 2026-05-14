@@ -87,6 +87,6 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan DigiMart di komputer Anda:
 - **Password Hashing**: Semua password Merchant dienkripsi secara default menggunakan Bcrypt.
 
 ## 🎓 Credit
-Dikembangkan oleh **[Nama Anda]** / **[NIM]**  
-Universitas / Kampus Anda — Tahun 2024/2025
+Dikembangkan oleh **[Muhammad Ainul Yaqin]** / **[411232022]**  
+Universitas Dian Nusantara — Tahun 2024/2025
 # digimart-uts
