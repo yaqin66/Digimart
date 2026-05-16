@@ -53,8 +53,8 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan DigiMart di komputer Anda:
      DB_HOST=127.0.0.1
      DB_PORT=3306
      DB_DATABASE=smart_catalog
-     DB_USERNAME=root
-     DB_PASSWORD=
+     DB_USERNAME=*******
+     DB_PASSWORD=*******
      ```
 
 4. **Generate Application Key**
