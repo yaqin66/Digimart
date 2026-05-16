@@ -13,7 +13,7 @@
 ## 📌 Tentang Projek
 **DigiMart** adalah sistem informasi manajemen katalog produk berbasis web yang dirancang khusus untuk merchant UMKM. Aplikasi ini memungkinkan pemilik toko untuk mendaftar, mengelola identitas toko, serta mengatur daftar kategori dan produk secara terstruktur dengan antarmuka pengguna (UI) yang modern dan interaktif.
 
-## ✨ Fitur Unggulan
+## ✨ Fitur
 - **🔐 Custom Authentication**: Sistem registrasi & login mandiri khusus Merchant tanpa mengganggu tabel `users` bawaan Laravel. (Isolasi data yang aman).
 - **📊 Interactive Dashboard**: Visualisasi data statistik produk menggunakan **Chart.js** (Doughnut Chart) dan *card counter* yang dinamis.
 - **📁 Manajemen Kategori & Produk**: Fitur CRUD (*Create, Read, Update, Delete*) lengkap dengan relasi Eloquent (`One-to-Many`).
