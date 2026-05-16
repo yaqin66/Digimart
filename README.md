@@ -30,11 +30,6 @@
 * **Icons:** FontAwesome 6
 * **Libraries:** SweetAlert2 (Popups), Chart.js (Grafik)
 
-## 🔒 Keamanan & Praktik Terbaik (Implementasi Kode)
-- **Allowed Fields (Mass Assignment Protection)**: Seluruh Model Laravel dilengkapi properti `protected $fillable` untuk mencegah eksploitasi *mass-assignment*.
-- **Regex Validation**: Form telepon menggunakan validasi regex `^[0-9]+$` untuk memastikan input 100% angka.
-- **Password Hashing**: Semua password Merchant dienkripsi secara default menggunakan Bcrypt.
-
 ## 🎓 Credit
 Dikembangkan oleh **[Muhammad Ainul Yaqin]** / **[411232022]**  
 Universitas Dian Nusantara — Tahun 2024/2025
